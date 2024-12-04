@@ -2,3 +2,5 @@ git+https://github.com/openai/whisper.git
 yt-dlp
 pydub
 librosa
+langchain
+llama-index
